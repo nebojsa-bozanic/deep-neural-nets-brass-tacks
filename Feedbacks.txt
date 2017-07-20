@@ -1,0 +1,5 @@
+Questions.
+
+what is validation used for?
+
+does the number of data correlates with the depth of the network?
